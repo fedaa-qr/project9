@@ -1,0 +1,10 @@
+header .cover{
+    height:500px;
+    background: #0000005c;
+    margin-top: -56px
+}
+.container .row hr{
+    margin-top: 5px;
+    width: 39%;
+    margin-left: 23%;
+}
